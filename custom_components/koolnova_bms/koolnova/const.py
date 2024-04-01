@@ -76,10 +76,10 @@ MIN_TEMP_ORDER = 15.0
 # Pas de la temperature de consigne : 0.5°C
 STEP_TEMP_ORDER = 0.5
 
-# Temperature maximale : 50°C
-MAX_TEMP = 50.0
-# Temperature minimale : 0°C
-MIN_TEMP = 0.0
+# Temperature maximale : 35°C
+MAX_TEMP = 35.0
+# Temperature minimale : 15°C
+MIN_TEMP = 15.0
 # Pas de la temperature : 0.5°C
 STEP_TEMP = 0.5
 
